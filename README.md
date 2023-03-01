@@ -3,7 +3,7 @@
 <h3 align="left">About me</h3>
 <p align="left">
 </p>
-<p align="left">A Backend and DevOps Engineer from Uganda! Currently contributing to <a href="https://armadaproject.io/" target="_blank">Armada</a></p>
+<p align="left">A Backend and DevOps Engineer from Uganda! Currently contributing to <a href="https://armadaproject.io/" target="_blank">Armada</a> and <a href="https://mojaloop.io" target="_blank">Mojaloop</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
