@@ -28,4 +28,7 @@
  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
 <img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png" alt="django" width="80" height="40"/>
 </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+<img src=" https://hub.meltano.com/assets/logos/extractors/kafka.png" alt="kafka" width="80" height="40"/>
+</a>
  </p>
