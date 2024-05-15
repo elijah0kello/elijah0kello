@@ -15,7 +15,7 @@ I am a Djangonaut
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-<img src="https://kubernetes.io/images/favicon.png" alt="k8s" width="40" height="40"/>
+<img src="https://www.logo.wine/a/logo/Kubernetes/Kubernetes-Logo.wine.svg" alt="k8s" width="40" height="40"/>
 </a>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/>
