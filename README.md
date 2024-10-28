@@ -3,7 +3,7 @@
 <h3 align="left">About me</h3>
 <p align="left">
 </p>
-<p align="left">A Backend and DevOps Engineer from Uganda! Currently contributing to <a href="https://armadaproject.io/" target="_blank">Armada</a>, <a href="https://mojaloop.io" target="_blank">Mojaloop</a>, <a href="https://django-debug-toolbar.readthedocs.io/en/latest/">Django</a> and <a href="https://mifos.org/" target="_blank">The Mifos Initiative</a></p>
+<p align="left">A Software Engineer from Uganda! Currently contributing to <a href="https://armadaproject.io/" target="_blank">Armada</a>, <a href="https://mojaloop.io" target="_blank">Mojaloop</a>, <a href="https://django-debug-toolbar.readthedocs.io/en/latest/">Django</a> and <a href="https://mifos.org/" target="_blank">The Mifos Initiative</a></p>
 
 I am a Djangonaut
 <h3 align="left">Connect with me:</h3>
